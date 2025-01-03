@@ -1,0 +1,184 @@
+2024-11-22 09:27:17,503 - INFO - All model files found. Starting server...
+2024-11-22 09:27:17,532 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.7:5000
+2024-11-22 09:27:17,533 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-22 09:27:17,535 - INFO -  * Restarting with stat
+2024-11-22 09:27:20,971 - INFO - All model files found. Starting server...
+2024-11-22 09:27:20,979 - WARNING -  * Debugger is active!
+2024-11-22 09:27:20,983 - INFO -  * Debugger PIN: 740-463-809
+2024-11-22 09:27:30,100 - INFO -  * Detected change in 'd:\\speech_emotion_app\\app.py', reloading
+2024-11-22 09:27:30,630 - INFO -  * Restarting with stat
+2024-11-22 09:27:33,939 - INFO - All model files found. Starting server...
+2024-11-22 09:27:33,947 - WARNING -  * Debugger is active!
+2024-11-22 09:27:33,950 - INFO -  * Debugger PIN: 740-463-809
+2024-11-22 09:27:40,868 - INFO -  * Detected change in 'd:\\speech_emotion_app\\utils\\audio_processor.py', reloading
+2024-11-22 09:27:41,326 - INFO -  * Restarting with stat
+2024-11-22 09:27:44,687 - INFO - All model files found. Starting server...
+2024-11-22 09:27:44,695 - WARNING -  * Debugger is active!
+2024-11-22 09:27:44,699 - INFO -  * Debugger PIN: 740-463-809
+2024-11-22 09:28:03,039 - INFO - All model files found. Starting server...
+2024-11-22 09:28:03,055 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.7:5000
+2024-11-22 09:28:03,055 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-22 09:28:03,056 - INFO -  * Restarting with stat
+2024-11-22 09:28:06,245 - INFO - All model files found. Starting server...
+2024-11-22 09:28:06,256 - WARNING -  * Debugger is active!
+2024-11-22 09:28:06,262 - INFO -  * Debugger PIN: 740-463-809
+2024-11-22 09:28:08,487 - INFO - 127.0.0.1 - - [22/Nov/2024 09:28:08] "GET / HTTP/1.1" 200 -
+2024-11-22 09:28:08,524 - INFO - 127.0.0.1 - - [22/Nov/2024 09:28:08] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 09:28:14,514 - INFO - File saved successfully: uploads\17f19a62-0c63-42a6-bfb9-122b925ddc5c_03-01-01-01-01-01-01.wav
+2024-11-22 09:28:29,017 - INFO - Prediction successful - Emotion: Fear, Confidence: 98.63%
+2024-11-22 09:28:29,018 - INFO - Cleaned up file: uploads\17f19a62-0c63-42a6-bfb9-122b925ddc5c_03-01-01-01-01-01-01.wav
+2024-11-22 09:28:29,019 - INFO - 127.0.0.1 - - [22/Nov/2024 09:28:29] "POST /predict HTTP/1.1" 200 -
+2024-11-22 09:28:29,054 - INFO - 127.0.0.1 - - [22/Nov/2024 09:28:29] "GET /result?emotion=Fear&confidence=98.63% HTTP/1.1" 200 -
+2024-11-22 09:28:29,092 - INFO - 127.0.0.1 - - [22/Nov/2024 09:28:29] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 09:29:01,956 - INFO -  * Detected change in 'd:\\speech_emotion_app\\app.py', reloading
+2024-11-22 09:29:02,767 - INFO -  * Restarting with stat
+2024-11-22 09:29:05,994 - INFO - All model files found. Starting server...
+2024-11-22 09:29:06,002 - WARNING -  * Debugger is active!
+2024-11-22 09:29:06,005 - INFO -  * Debugger PIN: 740-463-809
+2024-11-22 10:43:55,949 - INFO - All model files found. Starting server...
+2024-11-22 10:43:56,010 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.137.189:5000
+2024-11-22 10:43:56,011 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-22 10:43:56,013 - INFO -  * Restarting with stat
+2024-11-22 10:43:59,803 - INFO - All model files found. Starting server...
+2024-11-22 10:43:59,812 - WARNING -  * Debugger is active!
+2024-11-22 10:43:59,817 - INFO -  * Debugger PIN: 740-463-809
+2024-11-22 10:44:02,249 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:02] "GET / HTTP/1.1" 200 -
+2024-11-22 10:44:02,327 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:02] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 10:44:21,370 - INFO - File saved successfully: uploads\c65aa6da-f72c-4610-b632-8881e24ac381_03-01-01-01-01-02-02.wav
+2024-11-22 10:44:30,633 - INFO - Prediction successful - Emotion: Fear, Confidence: 100.00%
+2024-11-22 10:44:30,634 - INFO - Cleaned up file: uploads\c65aa6da-f72c-4610-b632-8881e24ac381_03-01-01-01-01-02-02.wav
+2024-11-22 10:44:30,635 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:30] "POST /predict HTTP/1.1" 200 -
+2024-11-22 10:44:30,701 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:30] "GET /result?emotion=Fear&confidence=100.00% HTTP/1.1" 200 -
+2024-11-22 10:44:30,744 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:30] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 10:44:44,139 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:44] "GET / HTTP/1.1" 200 -
+2024-11-22 10:44:44,195 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:44] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 10:44:53,014 - INFO - File saved successfully: uploads\4e901a68-c4d7-4eb6-8759-45d08b112153_03-01-01-01-01-01-01.wav
+2024-11-22 10:44:53,905 - INFO - Prediction successful - Emotion: Fear, Confidence: 98.63%
+2024-11-22 10:44:53,906 - INFO - Cleaned up file: uploads\4e901a68-c4d7-4eb6-8759-45d08b112153_03-01-01-01-01-01-01.wav
+2024-11-22 10:44:53,907 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:53] "POST /predict HTTP/1.1" 200 -
+2024-11-22 10:44:53,924 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:53] "GET /result?emotion=Fear&confidence=98.63% HTTP/1.1" 200 -
+2024-11-22 10:44:53,977 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:53] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 10:44:55,717 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:55] "GET / HTTP/1.1" 200 -
+2024-11-22 10:44:55,778 - INFO - 127.0.0.1 - - [22/Nov/2024 10:44:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 10:45:02,170 - INFO - File saved successfully: uploads\dc6b95f7-e8b6-40d8-8970-f8b4517aca3c_OAF_back_angry.wav
+2024-11-22 10:45:02,528 - INFO - Cleaned up file: uploads\dc6b95f7-e8b6-40d8-8970-f8b4517aca3c_OAF_back_angry.wav
+2024-11-22 10:45:02,529 - ERROR - Audio analysis error: Error during prediction: X has 902 features, but StandardScaler is expecting 2376 features as input.
+2024-11-22 10:45:02,530 - INFO - 127.0.0.1 - - [22/Nov/2024 10:45:02] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-22 10:45:07,499 - INFO - File saved successfully: uploads\12a55a31-393a-4e1d-b400-fc4d72c9f21f_OAF_back_angry.wav
+2024-11-22 10:45:07,848 - INFO - Cleaned up file: uploads\12a55a31-393a-4e1d-b400-fc4d72c9f21f_OAF_back_angry.wav
+2024-11-22 10:45:07,849 - ERROR - Audio analysis error: Error during prediction: X has 902 features, but StandardScaler is expecting 2376 features as input.
+2024-11-22 10:45:07,850 - INFO - 127.0.0.1 - - [22/Nov/2024 10:45:07] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-22 10:45:08,552 - INFO - File saved successfully: uploads\3c40a773-e406-4787-a737-3b35c9ba6856_OAF_back_angry.wav
+2024-11-22 10:45:08,910 - INFO - Cleaned up file: uploads\3c40a773-e406-4787-a737-3b35c9ba6856_OAF_back_angry.wav
+2024-11-22 10:45:08,911 - ERROR - Audio analysis error: Error during prediction: X has 902 features, but StandardScaler is expecting 2376 features as input.
+2024-11-22 10:45:08,912 - INFO - 127.0.0.1 - - [22/Nov/2024 10:45:08] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-22 10:45:09,431 - INFO - File saved successfully: uploads\8e8d1e80-a82a-475b-8b9e-2c9bb5bba41d_OAF_back_angry.wav
+2024-11-22 10:45:09,818 - INFO - Cleaned up file: uploads\8e8d1e80-a82a-475b-8b9e-2c9bb5bba41d_OAF_back_angry.wav
+2024-11-22 10:45:09,819 - ERROR - Audio analysis error: Error during prediction: X has 902 features, but StandardScaler is expecting 2376 features as input.
+2024-11-22 10:45:09,820 - INFO - 127.0.0.1 - - [22/Nov/2024 10:45:09] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-22 10:45:10,272 - INFO - File saved successfully: uploads\9fd7d706-8292-44aa-b63a-199f9ea54a36_OAF_back_angry.wav
+2024-11-22 10:45:10,614 - INFO - Cleaned up file: uploads\9fd7d706-8292-44aa-b63a-199f9ea54a36_OAF_back_angry.wav
+2024-11-22 10:45:10,614 - ERROR - Audio analysis error: Error during prediction: X has 902 features, but StandardScaler is expecting 2376 features as input.
+2024-11-22 10:45:10,616 - INFO - 127.0.0.1 - - [22/Nov/2024 10:45:10] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-22 10:45:11,063 - INFO - File saved successfully: uploads\48d8e62f-dcee-418a-a0f1-30fffe2430cd_OAF_back_angry.wav
+2024-11-22 10:45:11,448 - INFO - Cleaned up file: uploads\48d8e62f-dcee-418a-a0f1-30fffe2430cd_OAF_back_angry.wav
+2024-11-22 10:45:11,449 - ERROR - Audio analysis error: Error during prediction: X has 902 features, but StandardScaler is expecting 2376 features as input.
+2024-11-22 10:45:11,450 - INFO - 127.0.0.1 - - [22/Nov/2024 10:45:11] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-22 10:45:12,033 - INFO - File saved successfully: uploads\f8a8189d-b584-4464-ae4f-58d91da09107_OAF_back_angry.wav
+2024-11-22 10:45:12,399 - INFO - Cleaned up file: uploads\f8a8189d-b584-4464-ae4f-58d91da09107_OAF_back_angry.wav
+2024-11-22 10:45:12,399 - ERROR - Audio analysis error: Error during prediction: X has 902 features, but StandardScaler is expecting 2376 features as input.
+2024-11-22 10:45:12,402 - INFO - 127.0.0.1 - - [22/Nov/2024 10:45:12] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2024-11-22 10:45:37,137 - INFO - File saved successfully: uploads\6a321919-0c3f-44e7-9555-e499b1667ddf_03-01-06-01-02-01-02.wav
+2024-11-22 10:45:38,330 - INFO - Prediction successful - Emotion: Sad, Confidence: 100.00%
+2024-11-22 10:45:38,332 - INFO - Cleaned up file: uploads\6a321919-0c3f-44e7-9555-e499b1667ddf_03-01-06-01-02-01-02.wav
+2024-11-22 10:45:38,332 - INFO - 127.0.0.1 - - [22/Nov/2024 10:45:38] "POST /predict HTTP/1.1" 200 -
+2024-11-22 10:45:38,364 - INFO - 127.0.0.1 - - [22/Nov/2024 10:45:38] "GET /result?emotion=Sad&confidence=100.00% HTTP/1.1" 200 -
+2024-11-22 10:45:38,408 - INFO - 127.0.0.1 - - [22/Nov/2024 10:45:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 10:50:19,627 - INFO - 127.0.0.1 - - [22/Nov/2024 10:50:19] "GET / HTTP/1.1" 200 -
+2024-11-22 10:50:19,679 - INFO - 127.0.0.1 - - [22/Nov/2024 10:50:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 10:50:43,155 - INFO - File saved successfully: uploads\d1ef440d-4cec-472f-b46b-c45ae4dc02d8_03-01-01-01-02-02-02.wav
+2024-11-22 10:50:44,091 - INFO - Prediction successful - Emotion: Fear, Confidence: 100.00%
+2024-11-22 10:50:44,093 - INFO - Cleaned up file: uploads\d1ef440d-4cec-472f-b46b-c45ae4dc02d8_03-01-01-01-02-02-02.wav
+2024-11-22 10:50:44,093 - INFO - 127.0.0.1 - - [22/Nov/2024 10:50:44] "POST /predict HTTP/1.1" 200 -
+2024-11-22 10:50:44,112 - INFO - 127.0.0.1 - - [22/Nov/2024 10:50:44] "GET /result?emotion=Fear&confidence=100.00% HTTP/1.1" 200 -
+2024-11-22 10:50:44,162 - INFO - 127.0.0.1 - - [22/Nov/2024 10:50:44] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:01:01,385 - INFO - 127.0.0.1 - - [22/Nov/2024 11:01:01] "GET / HTTP/1.1" 200 -
+2024-11-22 11:01:01,450 - INFO - 127.0.0.1 - - [22/Nov/2024 11:01:01] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:01:21,694 - INFO - File saved successfully: uploads\f8de5b98-2073-4260-8f6e-294f74880be6_03-01-08-02-01-01-02.wav
+2024-11-22 11:01:22,545 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000002A19150F920> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-11-22 11:01:22,555 - INFO - Prediction successful - Emotion: Surprise, Confidence: 100.00%
+2024-11-22 11:01:22,557 - INFO - Cleaned up file: uploads\f8de5b98-2073-4260-8f6e-294f74880be6_03-01-08-02-01-01-02.wav
+2024-11-22 11:01:22,557 - INFO - 127.0.0.1 - - [22/Nov/2024 11:01:22] "POST /predict HTTP/1.1" 200 -
+2024-11-22 11:01:22,576 - INFO - 127.0.0.1 - - [22/Nov/2024 11:01:22] "GET /result?emotion=Surprise&confidence=100.00% HTTP/1.1" 200 -
+2024-11-22 11:01:22,625 - INFO - 127.0.0.1 - - [22/Nov/2024 11:01:22] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:01:42,753 - INFO - 127.0.0.1 - - [22/Nov/2024 11:01:42] "GET / HTTP/1.1" 200 -
+2024-11-22 11:01:42,820 - INFO - 127.0.0.1 - - [22/Nov/2024 11:01:42] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:02:14,791 - INFO - File saved successfully: uploads\bca2e8f2-80c7-478b-b8a2-df6eb75518d8_03-01-08-02-02-02-02.wav
+2024-11-22 11:02:15,673 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000002A1A3AFA5C0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2024-11-22 11:02:15,681 - INFO - Prediction successful - Emotion: Surprise, Confidence: 100.00%
+2024-11-22 11:02:15,682 - INFO - Cleaned up file: uploads\bca2e8f2-80c7-478b-b8a2-df6eb75518d8_03-01-08-02-02-02-02.wav
+2024-11-22 11:02:15,683 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:15] "POST /predict HTTP/1.1" 200 -
+2024-11-22 11:02:15,694 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:15] "GET /result?emotion=Surprise&confidence=100.00% HTTP/1.1" 200 -
+2024-11-22 11:02:15,728 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:15] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:02:18,634 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:18] "GET / HTTP/1.1" 200 -
+2024-11-22 11:02:18,692 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:18] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:02:24,688 - INFO - File saved successfully: uploads\8a7778fd-20fa-4b17-8c80-27aced094f7a_03-01-08-02-02-01-02.wav
+2024-11-22 11:02:25,468 - INFO - Prediction successful - Emotion: Surprise, Confidence: 100.00%
+2024-11-22 11:02:25,469 - INFO - Cleaned up file: uploads\8a7778fd-20fa-4b17-8c80-27aced094f7a_03-01-08-02-02-01-02.wav
+2024-11-22 11:02:25,470 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:25] "POST /predict HTTP/1.1" 200 -
+2024-11-22 11:02:25,485 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:25] "GET /result?emotion=Surprise&confidence=100.00% HTTP/1.1" 200 -
+2024-11-22 11:02:25,529 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:25] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:02:27,618 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:27] "GET / HTTP/1.1" 200 -
+2024-11-22 11:02:27,675 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:27] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:02:35,215 - INFO - File saved successfully: uploads\0306e060-6d72-463e-9ab7-6ca79a2124c9_03-01-01-01-01-01-02.wav
+2024-11-22 11:02:36,011 - INFO - Prediction successful - Emotion: Fear, Confidence: 100.00%
+2024-11-22 11:02:36,013 - INFO - Cleaned up file: uploads\0306e060-6d72-463e-9ab7-6ca79a2124c9_03-01-01-01-01-01-02.wav
+2024-11-22 11:02:36,013 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:36] "POST /predict HTTP/1.1" 200 -
+2024-11-22 11:02:36,028 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:36] "GET /result?emotion=Fear&confidence=100.00% HTTP/1.1" 200 -
+2024-11-22 11:02:36,073 - INFO - 127.0.0.1 - - [22/Nov/2024 11:02:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:40:52,231 - INFO - 127.0.0.1 - - [22/Nov/2024 11:40:52] "GET / HTTP/1.1" 200 -
+2024-11-22 11:40:52,289 - INFO - 127.0.0.1 - - [22/Nov/2024 11:40:52] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:54:42,814 - INFO - File saved successfully: uploads\cc53aa18-8746-477f-acbb-bb6710c3ea5d_03-01-08-02-02-02-02.wav
+2024-11-22 11:54:43,720 - INFO - Prediction successful - Emotion: Surprise, Confidence: 100.00%
+2024-11-22 11:54:43,722 - INFO - Cleaned up file: uploads\cc53aa18-8746-477f-acbb-bb6710c3ea5d_03-01-08-02-02-02-02.wav
+2024-11-22 11:54:43,723 - INFO - 127.0.0.1 - - [22/Nov/2024 11:54:43] "POST /predict HTTP/1.1" 200 -
+2024-11-22 11:54:43,743 - INFO - 127.0.0.1 - - [22/Nov/2024 11:54:43] "GET /result?emotion=Surprise&confidence=100.00% HTTP/1.1" 200 -
+2024-11-22 11:54:43,792 - INFO - 127.0.0.1 - - [22/Nov/2024 11:54:43] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:55:28,703 - INFO - 127.0.0.1 - - [22/Nov/2024 11:55:28] "GET / HTTP/1.1" 200 -
+2024-11-22 11:55:28,757 - INFO - 127.0.0.1 - - [22/Nov/2024 11:55:28] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:55:34,044 - INFO - File saved successfully: uploads\6e175ab1-09e0-41dd-9037-0d7acf5bc492_03-01-01-01-01-01-02.wav
+2024-11-22 11:55:35,621 - INFO - Prediction successful - Emotion: Fear, Confidence: 100.00%
+2024-11-22 11:55:35,680 - INFO - Cleaned up file: uploads\6e175ab1-09e0-41dd-9037-0d7acf5bc492_03-01-01-01-01-01-02.wav
+2024-11-22 11:55:35,680 - INFO - 127.0.0.1 - - [22/Nov/2024 11:55:35] "POST /predict HTTP/1.1" 200 -
+2024-11-22 11:55:35,694 - INFO - 127.0.0.1 - - [22/Nov/2024 11:55:35] "GET /result?emotion=Fear&confidence=100.00% HTTP/1.1" 200 -
+2024-11-22 11:55:35,739 - INFO - 127.0.0.1 - - [22/Nov/2024 11:55:35] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-22 11:55:39,328 - INFO - 127.0.0.1 - - [22/Nov/2024 11:55:39] "GET / HTTP/1.1" 200 -
+2024-11-22 11:55:39,382 - INFO - 127.0.0.1 - - [22/Nov/2024 11:55:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-25 15:51:07,197 - INFO - All model files found. Starting server...
+2024-11-25 15:51:07,266 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.7:5000
+2024-11-25 15:51:07,266 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-25 15:51:07,270 - INFO -  * Restarting with stat
+2024-11-25 15:51:11,646 - INFO - All model files found. Starting server...
+2024-11-25 15:51:11,655 - WARNING -  * Debugger is active!
+2024-11-25 15:51:11,658 - INFO -  * Debugger PIN: 346-532-853
+2024-11-25 15:51:12,648 - INFO - 127.0.0.1 - - [25/Nov/2024 15:51:12] "GET / HTTP/1.1" 200 -
+2024-11-25 15:51:12,715 - INFO - 127.0.0.1 - - [25/Nov/2024 15:51:12] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2024-11-25 15:51:12,839 - INFO - 127.0.0.1 - - [25/Nov/2024 15:51:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-25 15:53:14,723 - INFO - File saved successfully: uploads\7c503aed-1ce3-4a04-938b-af7b23f2771f_03-01-01-01-01-02-16.wav
+2024-11-25 15:53:25,064 - INFO - Prediction successful - Emotion: Fear, Confidence: 99.99%
+2024-11-25 15:53:25,066 - INFO - Cleaned up file: uploads\7c503aed-1ce3-4a04-938b-af7b23f2771f_03-01-01-01-01-02-16.wav
+2024-11-25 15:53:25,067 - INFO - 127.0.0.1 - - [25/Nov/2024 15:53:25] "POST /predict HTTP/1.1" 200 -
+2024-11-25 15:53:25,110 - INFO - 127.0.0.1 - - [25/Nov/2024 15:53:25] "GET /result?emotion=Fear&confidence=99.99% HTTP/1.1" 200 -
+2024-11-25 15:53:25,146 - INFO - 127.0.0.1 - - [25/Nov/2024 15:53:25] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -

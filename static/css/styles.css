@@ -1,0 +1,32 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.upload-section {
+    margin: 20px 0;
+    padding: 20px;
+    border: 2px dashed #ccc;
+    border-radius: 5px;
+}
+
+.result-section {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+
+.error-section {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #ffebee;
+    color: #c62828;
+    border-radius: 5px;
+}
+
+.hidden {
+    display: none;
+}
