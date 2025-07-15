@@ -104,6 +104,8 @@ For academic use, please cite relevant parts of this work and reference the proj
 ![Speech Emotion Detection Flow_page-0001](https://github.com/user-attachments/assets/5a086e5b-b2ca-470c-b049-7681501c93a0)
 
 
+![Speech Emotion Detection Flow_page-0002](https://github.com/user-attachments/assets/dd26dc19-81bc-4891-b2b1-a8377858fa7f)
+
+
 ![Speech Emotion Detection Flow_page-0003](https://github.com/user-attachments/assets/b75f5a7d-7b52-4bc7-9f7d-bbef0c228913)
 
-![Speech Emotion Detection Flow_page-0002](https://github.com/user-attachments/assets/dd26dc19-81bc-4891-b2b1-a8377858fa7f)
