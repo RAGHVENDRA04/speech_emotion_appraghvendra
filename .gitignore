@@ -1,0 +1,15 @@
+﻿venv/
+*.pt
+*.pth
+*.dll
+*.pyd
+data/
+*.wav
+*.mp3
+__pycache__/
+*.py[cod]
+.env
+*.ipynb_checkpoints/
+*.ipynb
+*.log
+*.tmp
