@@ -2,3 +2,30 @@ venv/
 *.pyd 
 *.dll 
 __pycache__/ 
+
+
+
+
+# .gitignore
+
+# Ignore PyTorch model files
+*.pt
+*.pth
+
+# Ignore datasets or raw audio files
+data/
+*.wav
+*.mp3
+
+# Ignore environment and cache files
+__pycache__/
+*.py[cod]
+.env
+*.ipynb_checkpoints/
+
+# Ignore Jupyter notebook outputs
+*.ipynb
+
+# Ignore temp files
+*.log
+*.tmp
